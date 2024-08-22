@@ -6,7 +6,7 @@ metadata:
     app: myap
   name: myap
 spec:
-  replicas: 3
+  replicas: 100
   selector:
     matchLabels:
       app: myap
